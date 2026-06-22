@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /user/*
+Disallow: /500
+Disallow: /admin*
+Disallow: /*?*
+Allow: /
+Host: https://spets-strazh.ru
+Sitemap: https://spets-strazh.ru/sitemap.xml
