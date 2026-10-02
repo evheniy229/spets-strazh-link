@@ -9,4 +9,5 @@
 Правила наименований товара
 [Название товара] [бренд] [артикул]
 
-[https://spets-strazh.ru](https://grot-ekb66.ru/)
+**https://grot-ekb66.ru/**
+[https://grot-ekb66.ru](https://grot-ekb66.ru/)
